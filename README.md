@@ -19,7 +19,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Uninter, atualmente t
 
 - 💻 Computer gamer.
 
-## Tecnologias, ferramentas e Linguagens.
+## Tecnologias, Ferramentas e Linguagens.
 
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
