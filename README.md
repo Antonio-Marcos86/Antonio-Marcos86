@@ -1,16 +1,30 @@
-### Hi there 👋
+## Salve Humanos...
 
-<!--
-**Antonio-Marcos86/Antonio-Marcos86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ant%C3%B4nio-marcos-dos-santos-de-souza-0308781b6/)[![followersGit](https://img.shields.io/github/followers/Antonio-Marcos86?style=social)](https://github.com/Antonio-Marcos86)<img src="https://komarev.com/ghpvc/?username=Antonio-Marcos86&label=Profile%20views&color=0e75b6&style=social" alt="Antonio marcos dos Santos de Souza" />![Dev](https://img.shields.io/badge/Dev-Antonio%20Marcos-orange)
 
-Here are some ideas to get you started:
+Olá, me chamo **Antonio Marcos dos Santos de Souza**, tenho 34 anos de idade. Apaixonado por *tecnologia* , cinema, HQs e animes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante de **Análise e Desenvolvimento de Sistemas** na Uninter, atualmente trabalho como **trainee na Foursys** com programação **Android**. Carreira desenvolvida na área de logística por cerca de 12 anos com formação superior em **Logística**. mudando de área de atuação para realizar um sonho de trabalhar com tecnologia e de enfrentar novos desafios.
+
+## O que estou fazendo atualmente?
+- 🏢 Trabalhando atualmente como Trainee na Foursys.
+
+- 📓 Aprendendo programação Android com Java.
+
+- 📚 Leitor compulsivo.
+
+- 💰 Apaixonado por mercado financeiro.
+
+- 📚 Apaixonado por HQs e animes.
+
+- 💻 Computer gamer.
+
+## Tecnologias, ferramentas e Linguagens.
+
+<code><img width="30%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img width="30%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="30%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<br />
+<code><img width="30%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="30%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+<code><img width="30%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>
