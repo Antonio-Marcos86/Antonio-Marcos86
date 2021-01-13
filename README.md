@@ -1,4 +1,4 @@
-## hello World... <img src="https://github.com/Antonio-Marcos86/Antonio-Marcos86/blob/main/hey.gif?raw=true" width="32px">
+## Hello World...  <img src="https://github.com/Antonio-Marcos86/Antonio-Marcos86/blob/main/hey.gif?raw=true" width="32px">
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ant%C3%B4nio-marcos-dos-santos-de-souza-0308781b6/)[![followersGit](https://img.shields.io/github/followers/Antonio-Marcos86?style=social)](https://github.com/Antonio-Marcos86)<img src="https://komarev.com/ghpvc/?username=Antonio-Marcos86&label=Profile%20views&color=0e75b6&style=social" alt="Antonio marcos dos Santos de Souza" />![Dev](https://img.shields.io/badge/Dev-Antonio%20Marcos-orange)
 
@@ -28,3 +28,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Uninter, atualmente t
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>
+
+
+
