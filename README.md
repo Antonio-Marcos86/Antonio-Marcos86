@@ -20,7 +20,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas na <a href="https://www.un
 - [Onde moro](#onde-moro)
 
 ## O que estou fazendo atualmente?
-- 🏢 Trabalhando atualmente como Trainee na **<a href="https://www.foursys.com.br/">Foursys.</a>**
+- 🏢 Trabalhando atualmente como Trainee na **<a href="https://www.foursys.com.br/" target="_blank">Foursys.</a>**
   
 - 📓 Aprendendo programação Android com Java.
 
