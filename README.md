@@ -5,6 +5,12 @@
 Olá, me chamo **Antonio Marcos dos Santos de Souza**, tenho 34 anos de idade. Apaixonado por tecnologia , cinema, HQs e animes.
 Estudante de **Análise e Desenvolvimento de Sistemas na <a href="https://www.uninter.com/?gclid=Cj0KCQiA9P__BRC0ARIsAEZ6irhdtKcrq5EybdPHNhfdTe8pFvbZ7MxL7R-5mE48vMMSrIUAP1n1xR4aAkQKEALw_wcB">Uninter</a>**, atualmente trabalho como **trainee na <a href="https://www.foursys.com.br/">Foursys.</a>** com programação **Android**. Carreira desenvolvida na área de logística por cerca de 12 anos com formação superior em **Logística**. mudando de área de atuação para realizar um sonho de trabalhar com tecnologia e de enfrentar novos desafios.
 
+## Conteudo
+- [Um pouco sobre mim](#Umpoucosobremim)
+- [Objetivo](#Objetivo)
+- [Meu Status no Github](#meustatusnogithub)
+- [Tecnologia, Ferramentas & Linguagens](#tecnologia,ferramentas&linguagens)
+
 ## O que estou fazendo atualmente?
 - 🏢 Trabalhando atualmente como Trainee na **<a href="https://www.foursys.com.br/">Foursys.</a>**
   
