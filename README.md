@@ -56,8 +56,7 @@ ________
 
 ## Meu status no GitHub
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Antonio-marcos86&show_icons=true&locale=en" alt="Antonio-Marcos86" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Antonio-Marcos86&theme=dracula&show_icons=true&locale=en" alt="Antonio-marcos86"/>
 
 [Voltar ao topo](#conteúdo)
 ## Onde moro
