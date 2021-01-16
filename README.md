@@ -39,7 +39,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas na <a href="https://www.un
 * 📰 Ter uma profissão dentro da área de TI;<br />
 * 🔝 Sempre buscando aperfeiçoamento;
 
-[Voltar ao topo](#conteúdo)
+[Voltar ao topo](#quem-sou)
 <br/>
 ________
 ## Tecnologias, Ferramentas e Linguagens.
@@ -52,17 +52,17 @@ ________
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>
 
-[Voltar ao topo](#conteúdo)
+[Voltar ao topo](#quem-sou)
 
 ## Meu status no GitHub:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Antonio-Marcos86&theme=dracula&show_icons=true&locale=en" alt="Antonio-marcos86"/>
 
-[Voltar ao topo](#conteúdo)
+[Voltar ao topo](#quem-sou)
 ## Onde moro
 Moro em **Curitiba**, capital do **Paraná**.
 
 <img src="https://user-images.githubusercontent.com/71250901/104644013-00935d80-568c-11eb-8b60-9c8a94a2f25f.png" width="50%"> 
 <img src="https://user-images.githubusercontent.com/71250901/104644290-56680580-568c-11eb-8ff0-e65837ae7320.png" width="50%">
 
-[Voltar ao topo](#quemsou)
+[Voltar ao topo](#quem-sou)
