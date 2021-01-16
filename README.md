@@ -9,14 +9,14 @@ Estudante de **Análise e Desenvolvimento de Sistemas na <a href="https://www.un
 
 ## Conteúdo
 
-
+  
 - [Hello World...  <img src="https://github.com/Antonio-Marcos86/Antonio-Marcos86/blob/main/hey.gif?raw=true" width="32px">](#hello-world--)
 - [Quem sou.](#quem-sou)
 - [Conteúdo](#conteúdo)
 - [O que estou fazendo atualmente?](#o-que-estou-fazendo-atualmente)
 - [Objetivo](#objetivo)
 - [Tecnologias, Ferramentas e Linguagens.](#tecnologias-ferramentas-e-linguagens)
-- [Meu status no GitHub](#meu-status-no-github)
+- [Meu status no GitHub:](#meu-status-no-github)
 - [Onde moro](#onde-moro)
 
 ## O que estou fazendo atualmente?
@@ -54,7 +54,7 @@ ________
 
 [Voltar ao topo](#conteúdo)
 
-## Meu status no GitHub
+## Meu status no GitHub:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Antonio-Marcos86&theme=dracula&show_icons=true&locale=en" alt="Antonio-marcos86"/>
 
@@ -65,4 +65,4 @@ Moro em **Curitiba**, capital do **Paraná**.
 <img src="https://user-images.githubusercontent.com/71250901/104644013-00935d80-568c-11eb-8b60-9c8a94a2f25f.png" width="50%"> 
 <img src="https://user-images.githubusercontent.com/71250901/104644290-56680580-568c-11eb-8ff0-e65837ae7320.png" width="50%">
 
-[Voltar ao topo](#conteúdo)
+[Voltar ao topo](#quemsou)
