@@ -4,8 +4,7 @@
 
 ## Quem sou.
 
-Olá, me chamo **Antonio Marcos dos Santos de Souza**, tenho 34 anos de idade. Apaixonado por tecnologia , cinema, HQs e animes.
-Estudante de **Análise e Desenvolvimento de Sistemas na <a href="https://www.uninter.com/?gclid=Cj0KCQiA9P__BRC0ARIsAEZ6irhdtKcrq5EybdPHNhfdTe8pFvbZ7MxL7R-5mE48vMMSrIUAP1n1xR4aAkQKEALw_wcB" target="_blank">Uninter</a>**, atualmente trabalho como **trainee na <a href="https://www.foursys.com.br/" target="_blank">Foursys.</a>** com programação **Android**. Carreira desenvolvida na área de logística por cerca de 12 anos com formação superior em **Logística**. mudando de área de atuação para realizar um sonho de trabalhar com tecnologia e de enfrentar novos desafios.
+Olá, me chamo **Antonio Marcos dos Santos de Souza**, tenho 34 anos de idade.Estudante de **Análise e Desenvolvimento de Sistemas na <a href="https://www.uninter.com/?gclid=Cj0KCQiA9P__BRC0ARIsAEZ6irhdtKcrq5EybdPHNhfdTe8pFvbZ7MxL7R-5mE48vMMSrIUAP1n1xR4aAkQKEALw_wcB" target="_blank">Uninter</a>**, atualmente trabalho como **trainee na <a href="https://www.foursys.com.br/" target="_blank">Foursys.</a>** com programação **Android**. Carreira desenvolvida na área de logística por cerca de 12 anos com formação superior em **Logística**. Estou mudando de área de atuação para realizar um sonho de trabalhar com tecnologia e de enfrentar novos desafios.
 
 ## Conteúdo
 
@@ -24,13 +23,15 @@ Estudante de **Análise e Desenvolvimento de Sistemas na <a href="https://www.un
   
 - 📓 Aprendendo programação Android com Java.
 
-- 📚 Leitor compulsivo.
+- 📚 Lendo muitos livros.
 
-- 💰 Entusiasta por mercado financeiro.
+- 💰 Tenho atuado no mercado financeiro.
 
-- 📚 Apaixonado por HQs e animes.
+- 📚 Fazendo cursos complementares na área de tecnologia.
 
 - 💻 Cursando Análise e desenvolvimento de sistemas.
+
+- 💻 Cursando inglês.
 
 
 ## Objetivo
