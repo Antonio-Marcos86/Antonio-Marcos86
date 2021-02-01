@@ -70,7 +70,4 @@ Moro em **Curitiba**, capital do **Paraná**.
 
 
 [Voltar ao topo](#quem-sou)
-## Code Contributors
 
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/kefranabg/readme-md-generator/graphs/contributors"><img src="https://opencollective.com/readme-md-generator/contributors.svg?width=890&button=false" /></a>
