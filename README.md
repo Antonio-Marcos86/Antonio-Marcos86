@@ -61,6 +61,9 @@ ________
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Antonio-Marcos86&theme=dracula&show_icons=true&locale=en" alt="Antonio-marcos86"/>
 
+## Top Linguagens utilizadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-marcos86&layout=compact)](https://https://github.com/Antonio-Marcos86)
+
 [Voltar ao topo](#quem-sou)
 ## Onde moro
 Moro em **Curitiba**, capital do **Paraná**.
