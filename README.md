@@ -4,7 +4,7 @@
 
 ## Quem sou.
 
-Olá, me chamo **Antonio Marcos dos Santos de Souza**, tenho 34 anos de idade.Estudante de **Análise e Desenvolvimento de Sistemas na <a href="https://www.uninter.com/?gclid=Cj0KCQiA9P__BRC0ARIsAEZ6irhdtKcrq5EybdPHNhfdTe8pFvbZ7MxL7R-5mE48vMMSrIUAP1n1xR4aAkQKEALw_wcB" target="_blank">Uninter</a>**, atualmente trabalho como **trainee na <a href="https://www.foursys.com.br/" target="_blank">Foursys.</a>** com programação **Android**. Iniciando na área de desenvolvimento, com experiência na liderança de equipe. Conhecimento técnico com lógica de programação e diversas linguagens de programação, buscando continuamente me aperfeiçoar, sempre buscando conhecimento através do curso superior e também de cursos complementares de diversas linguagens de programação. 
+Olá, me chamo **Antonio Marcos dos Santos de Souza**, tenho 34 anos de idade.Estudante de **Análise e Desenvolvimento de Sistemas na <a href="https://www.uninter.com/?gclid=Cj0KCQiA9P__BRC0ARIsAEZ6irhdtKcrq5EybdPHNhfdTe8pFvbZ7MxL7R-5mE48vMMSrIUAP1n1xR4aAkQKEALw_wcB" target="_blank">Uninter</a>**, atualmente trabalho como ** <a href="https://www.foursys.com.br/" target="_blank">Foursys.</a>** com programação **Android**. Iniciando na área de desenvolvimento, com experiência na liderança de equipe. Conhecimento técnico com lógica de programação e diversas linguagens de programação, buscando continuamente me aperfeiçoar, sempre buscando conhecimento através do curso superior e também de cursos complementares de diversas linguagens de programação. 
 
 ## Conteúdo
 
@@ -19,7 +19,7 @@ Olá, me chamo **Antonio Marcos dos Santos de Souza**, tenho 34 anos de idade.Es
 - [Onde moro](#onde-moro)
 
 ## O que estou fazendo atualmente?
-- 🏢 Trabalhando atualmente como Trainee na **<a href="https://www.foursys.com.br/" target="_blank">Foursys.</a>**
+- 🏢 Trabalhando atualmente como desenvolvedor Android na **<a href="https://www.foursys.com.br/" target="_blank">Foursys.</a>**
   
 - 📓 Aprendendo programação Android com Java.
 
