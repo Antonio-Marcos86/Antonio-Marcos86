@@ -4,7 +4,7 @@
 
 ## Quem sou.
 
-Olá, me chamo **Antonio Marcos dos Santos de Souza**, tenho 35 anos de idade.Estudante de **Análise e Desenvolvimento de Sistemas na <a href="https://www.uninter.com/?gclid=Cj0KCQiA9P__BRC0ARIsAEZ6irhdtKcrq5EybdPHNhfdTe8pFvbZ7MxL7R-5mE48vMMSrIUAP1n1xR4aAkQKEALw_wcB" target="_blank">Uninter</a>**, atualmente trabalho como  **desenvolvedor Mobile Android na <a href="https://www.foursys.com.br/" target="_blank">Foursys</a>**. Iniciando na área de desenvolvimento, com experiência na liderança de equipe. Conhecimento técnico com lógica de programação e diversas linguagens de programação, buscando continuamente me aperfeiçoar, sempre buscando conhecimento através do curso superior e também de cursos complementares de diversas linguagens de programação. 
+Olá, me chamo **Antonio Marcos dos Santos de Souza**, tenho 36 anos de idade.Estudante de **Análise e Desenvolvimento de Sistemas na <a href="https://www.uninter.com/?gclid=Cj0KCQiA9P__BRC0ARIsAEZ6irhdtKcrq5EybdPHNhfdTe8pFvbZ7MxL7R-5mE48vMMSrIUAP1n1xR4aAkQKEALw_wcB" target="_blank">Uninter</a>**, atualmente trabalho como  **desenvolvedor Mobile Android na <a href="https://www.foursys.com.br/" target="_blank">Foursys</a>**. Iniciando na área de desenvolvimento, com experiência na liderança de equipe. Conhecimento técnico com lógica de programação e diversas linguagens de programação, buscando continuamente me aperfeiçoar, sempre buscando conhecimento através do curso superior e também de cursos complementares de diversas linguagens de programação. 
 
 ## Conteúdo
 
@@ -49,7 +49,7 @@ ________
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<br />
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>
