@@ -4,7 +4,7 @@
 
 ## Quem sou.
 
-Olá, me chamo **Antonio Marcos dos Santos de Souza**, tenho 36 anos de idade. Estudante de **Análise e Desenvolvimento de Sistemas na <a href="https://www.uninter.com/?gclid=Cj0KCQiA9P__BRC0ARIsAEZ6irhdtKcrq5EybdPHNhfdTe8pFvbZ7MxL7R-5mE48vMMSrIUAP1n1xR4aAkQKEALw_wcB" target="_blank">Uninter</a>**, atualmente trabalho como  **desenvolvedor Salesforce júnior na <a href="https://www.accenture.com/br-pt" target="_blank">Accenture</a>**. Iniciando na área de desenvolvimento, com experiência na liderança de equipe. Conhecimento técnico com lógica de programação e diversas linguagens de programação, buscando continuamente me aperfeiçoar, sempre buscando conhecimento através do curso superior e também de cursos complementares de diversas linguagens de programação. 
+Olá, me chamo **Antonio Marcos dos Santos de Souza**, tenho 36 anos de idade. Estudante de **Análise e Desenvolvimento de Sistemas na <a href="https://www.uninter.com/?gclid=Cj0KCQiA9P__BRC0ARIsAEZ6irhdtKcrq5EybdPHNhfdTe8pFvbZ7MxL7R-5mE48vMMSrIUAP1n1xR4aAkQKEALw_wcB" target="_blank">Uninter</a>**, atualmente trabalho como  **programador Salesforce júnior na <a href="https://www.accenture.com/br-pt" target="_blank">Accenture</a>**. Iniciando na área de desenvolvimento, com experiência na liderança de equipe. Conhecimento técnico com lógica de programação e diversas linguagens de programação, buscando continuamente me aperfeiçoar, sempre buscando conhecimento através do curso superior e também de cursos complementares de diversas linguagens de programação. 
 
 ## Conteúdo
 
@@ -19,9 +19,9 @@ Olá, me chamo **Antonio Marcos dos Santos de Souza**, tenho 36 anos de idade. E
 - [Onde moro](#onde-moro)
 
 ## O que estou fazendo atualmente?
-- 🏢 Trabalhando atualmente como desenvolvedor Android na **<a href="https://www.foursys.com.br/" target="_blank">Foursys.</a>**
+- 🏢 Trabalhando atualmente como programador Salesforce na **<a href="https://www.accenture.com/br-pt" target="_blank">Accenture</a>**
   
-- 📓 Aprendendo programação Android com Java.
+- 📓 Estudando para certificações Salesforce.
 
 - 📚 Lendo muitos livros.
 
