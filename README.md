@@ -54,6 +54,8 @@ ________
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 
 [Voltar ao topo](#quem-sou)
 
